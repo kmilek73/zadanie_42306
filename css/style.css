@@ -1,0 +1,45 @@
+.tlo {
+    background-color: #faebd6;
+    padding: 10px;
+}
+
+.naglowek {
+    color: black;
+    background-color: yellow;
+}
+
+.naglowek_2 {
+    color: black;
+    background-color: red;
+}
+.paragraf_pierwszy {
+    color: white;
+    background-color: #00008f;
+}
+.paragraf_drugi {
+    color: black;
+    background-color: aqua;
+}
+
+body{background-color: red;}
+
+.li_1 {
+    color:white;
+    background-color: #00008f;
+}
+.li_2 {
+    color:blue;
+    background-color: blueviolet;
+}
+.li_3 {
+    color:grey;
+    background-color: pink;
+}
+.li_4 {
+    color:green;
+    background-color: magenta;
+}
+.li_5 {
+    color:yellow;
+    background-color: red;
+}
